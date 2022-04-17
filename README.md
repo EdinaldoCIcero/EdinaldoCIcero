@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <!--
+
+![Banner_1](https://user-images.githubusercontent.com/68930411/163734961-dc127c29-66fc-42c4-bf9b-d5274343d49b.png)
+
 **EdinaldoCIcero/EdinaldoCIcero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
