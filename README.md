@@ -1,19 +1,14 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+  <img src="https://jonhnnyweslley.net/pt-br/blog/como-utilizar-ia-para-aumentar-sua-produtividade-em-programacao/tabnine_python_demo.gif">
 </p>
 
 **Hi, I'm Edinaldo! <img src="" width="50">**
 
 
-**Languages and tools:**
-
-<img align="center" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/python.png">
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdinaldoCIcero&show_icons=true&theme=react&border_radius=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdinaldoCIcero&layout=compact&theme=react&custom_title=Linguagens )](https://github.com/EdinaldoCIcero/github-readme-stats)
+| <a href="https://github.com/EdinaldoCIcero/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdinaldoCIcero&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="EdinaldoCIcero's github stats" /></a> | <a href="https://github.com/EdinaldoCIcero/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdinaldoCIcero&layout=compact&theme=react&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ------------------------------------------------------------ 🚀 E vamos com tudo para o futuro! --------------------------------------------------------
 
